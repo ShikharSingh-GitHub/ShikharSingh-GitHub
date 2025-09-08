@@ -36,13 +36,6 @@
 ---
 
 
-### ⌨️ Weekly coding stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-
 ### 🤝 Let’s collaborate
 - If you like something here, **⭐ star** it — it helps others find it.
 - Open to PRs on: UI polish, performance wins, docs & examples.
