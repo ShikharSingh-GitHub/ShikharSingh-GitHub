@@ -13,7 +13,7 @@
 
 <details>
 <summary><b>More projects</b></summary>
-- Kanban Board — drag‑and‑drop, filters, server‑side pagination
+- Kanban Board — drag‑and‑drop, filters, server‑side pagination <br>
 - Online Result System — role‑based access, audit logs
 </details>
 
