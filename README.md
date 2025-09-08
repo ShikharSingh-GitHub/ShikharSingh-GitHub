@@ -30,9 +30,6 @@
 </div>
 
 
-> Tip: pin repos that best reflect your **current** skills; these cards update over time.
-
-
 ---
 
 
