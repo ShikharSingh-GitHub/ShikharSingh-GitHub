@@ -13,7 +13,6 @@
 
 <details>
 <summary><b>More projects</b></summary>
-- MERN E‑Commerce (photoshop prints) — Stripe, Auth, Dashboard
 - Kanban Board — drag‑and‑drop, filters, server‑side pagination
 - Online Result System — role‑based access, audit logs
 </details>
@@ -37,14 +36,6 @@
 ---
 
 
-### 🧩 What I’m building right now
-- ⚙️ **Dynamic Table Builder** (SQL + REST + admin UI)
-- 🔐 **Auth kit** for React (Okta/OAuth2/JWT) with examples
-- 📈 **Power BI mini‑dashboards** from JSON/CSV
-
-
----
-
 ### ⌨️ Weekly coding stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -60,7 +51,7 @@
 ---
 
 
-<!-- Fun extras: toggle off if you prefer minimal -->
+<!-- Fun extras: toggle off if you prefer minimal 
 <details>
 <summary>🏆 Achievements & trophies (click to expand)</summary>
 <br/>
@@ -73,7 +64,7 @@
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShikharSingh-GitHub&area=true" />
 </details>
-
+-->
 
 <!-- Footer note -->
 <p align="center">
