@@ -1,18 +1,20 @@
 name: Update WakaTime stats
 on:
-schedule: [{ cron: '0 7 * * *' }]
-workflow_dispatch:
-
+  schedule:
+    - cron: '0 7 * * *'   # daily 07:00 UTC
+  workflow_dispatch:
 
 jobs:
-update-readme:
-runs-on: ubuntu-latest
-steps:
-- uses: athul/waka-readme@master
-with:
-WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-SHOW_TITLE: true
-TIME_RANGE: last_7_days
-LANG_COUNT: 8
-SHOW_TIME: true
-SHOW_MASKED_TIME: false
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # allow the action to commit to README
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
