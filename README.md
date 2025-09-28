@@ -14,7 +14,7 @@
 <details>
 <summary><b>More projects</b></summary>
 - Kanban Board — drag‑and‑drop, filters, server‑side pagination <br>
-- Online Result System — role‑based access, audit logs
+- Election Management System — role‑based access, CRUD on users, voters.
 </details>
 
 
