@@ -1,5 +1,5 @@
 <!-- Hero / Intro -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,vite,docker,nginx,aws&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vite,docker,aws&perline=10" />
 </p>
 
 
