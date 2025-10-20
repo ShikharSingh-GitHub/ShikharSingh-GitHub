@@ -24,7 +24,6 @@
 ### 📊 GitHub at a glance
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShikharSingh-GitHub&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues" alt="GitHub stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ShikharSingh-GitHub" alt="streak" />
 <br/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikharSingh-GitHub&layout=compact&langs_count=10" alt="top langs" />
 </div>
