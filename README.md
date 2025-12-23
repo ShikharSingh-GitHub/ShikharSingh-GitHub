@@ -33,9 +33,10 @@ strong UX, and modern tooling.
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img height="155"
+  <!--<img height="155"
        src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShikharSingh-GitHub&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues" />
   <br/>
+  -->
   <img height="155"
        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShikharSingh-GitHub&layout=compact&langs_count=8" />
 </div>
